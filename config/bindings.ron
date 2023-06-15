@@ -1,0 +1,9 @@
+(
+    axes: {
+        "green_tank_move": Emulated(pos: Key(Up), neg: Key(Down)),
+        "red_tank_move": Emulated(pos: Key(W), neg: Key(S)),
+        "green_tank_rotate": Emulated(pos: Key(Right), neg: Key(Left)),
+        "red_tank_rotate": Emulated(pos: Key(D), neg: Key(A)),
+    },
+    actions: {},
+)
